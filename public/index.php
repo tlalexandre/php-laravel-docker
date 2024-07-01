@@ -86,7 +86,7 @@ global $userIDToken;
     </div>
 
     <!-- Javascript file that includes our buttons and cardField events -->
-    <script src="app.js"></script>
+    <script src="./app.js"></script>
 </body>
 
 </html>
