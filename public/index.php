@@ -20,7 +20,7 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ***************************************************************/
 -->
 
-<?php require_once "backend.php";
+<?php require_once "./backend.php";
 // Instantiate the MyOrder class and generate the access token
 $order = new MyOrder();
 $order->generateAccessToken();
